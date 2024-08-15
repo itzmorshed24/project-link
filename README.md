@@ -1,7 +1,5 @@
 # project-link
 
-
-
 HTML & CSS Responsive Project
     1.  Live link: https://itzmorshed24.github.io/fitness-website/
         Resource: https://github.com/itzmorshed24/fitness-website
